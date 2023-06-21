@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoginKeyboard">
+
+    </declare-styleable>
+
+    <declare-styleable name="LoginPageView">
+        <attr name="mainColor" format="color"/>
+        <attr name="verifyCodeSize" format="integer"/>
+    </declare-styleable>
+
+</resources>
